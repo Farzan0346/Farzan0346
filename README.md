@@ -1,39 +1,98 @@
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Farzan%20Ashraf&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
+<h2 align="center">🚀 Frontend Developer | React.js Specialist</h2>
 
-### 👋 Hey there! I'm **Farzan Ashraf**  
-
-🌟 **Frontend Developer | 2 Years Experience**
-
-I'm a passionate frontend developer specializing in creating visually appealing and user-friendly web applications. Over the past 2 years, I’ve worked on **e-commerce, real estate**, and **dashboard** projects, delivering seamless and responsive designs.
-
----
-
-### 🛠️ **Tech Stack & Skills**
-
-- **Languages**:  
-  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-- **Frameworks & Libraries**:  
-  ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Material UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-  ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-- **Tools & Techniques**:  
-  ![Framer Motion Badge](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-  ![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+<p align="center">
+  Building dynamic, scalable & user-friendly web applications
+</p>
 
 ---
 
-### 🏆 **GitHub Stats**
-![Farzan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismailRehman32&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailRehman32&layout=compact&theme=radical)
+## 👨‍💻 About Me
+
+- 💼 Frontend Developer with 3+ years experience  
+- ⚛️ Specialized in React.js & modern JavaScript (ES6+)  
+- 🎨 Strong focus on UI/UX & responsive design  
+- 🔗 Experienced in API integrations (Axios)  
+- 🧩 Worked with WordPress (custom plugins & themes)  
+- 📈 Passionate about building scalable applications  
 
 ---
 
-### 🔗 **Connect with me**
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzanashraf)
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0ea5e9?style=for-the-badge&logo=tailwindcss)
+
+### ⚙️ Tools & Libraries
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+
+### 🧠 Other Skills
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farzanAshraf&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farzanAshraf&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzanAshraf&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/farzanashraf/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## ✨ Fun Section
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6a11cb&center=true&vCenter=true&lines=React+Developer;Frontend+Engineer;Always+Learning+New+Things;Building+Cool+Stuff" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 Comic Store (React + Bootstrap)
+- 🔹 2D Floorplan Viewer (JS + Interactive UI)
+- 🔹 WordPress Custom Plugin (API Sync Media)
+- 🔹 Dynamic Forms with API Integration
+
+---
+
+<p align="center">
+  💡 "Code. Create. Innovate."
+</p>
