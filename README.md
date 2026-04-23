@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D7E81,100:C2817E&height=200&section=header&text=Farzan%20Ashraf&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D7E81,100:C2817E&height=200&section=header&text=Farzan%20Ashraf&fontSize=40&fontColor=000000&animation=fadeIn" />
 </p>
 
 <h2 align="center">🚀 Frontend Developer | React.js Specialist</h2>
