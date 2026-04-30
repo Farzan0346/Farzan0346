@@ -1,56 +1,64 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D7E81,100:C2817E&height=200&section=header&text=Farzan%20Ashraf&fontSize=40&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Farzan%20Ashraf&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h2 align="center">🚀 Frontend Developer | React.js Specialist</h2>
+<h2 align="center">🚀 Senior Frontend Engineer | React • Next.js • AI-Driven</h2>
 
 <p align="center">
-  Building dynamic, scalable & user-friendly web applications
+  Building scalable, high-performance & pixel-perfect web applications
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Frontend Developer with 3+ years experience  
-- ⚛️ Specialized in React.js & modern JavaScript (ES6+)  
-- 🎨 Strong focus on UI/UX & responsive design  
-- 🔗 Experienced in API integrations (Axios)  
-- 🧩 Worked with WordPress (custom plugins & themes)  
-- 📈 Passionate about building scalable applications  
+- 💼 4+ years experience as Frontend Engineer  
+- ⚛️ Expert in React.js, Next.js & modern JavaScript (ES6+)  
+- 🤖 AI-native developer (ChatGPT, Copilot, Claude)  
+- 🎯 Focused on performance, scalability & clean architecture  
+- 🎨 Strong focus on UI/UX & pixel-perfect design  
+- ⚡ Fast iteration mindset — ship fast, improve faster  
+
+---
+
+## 🧠 What Makes Me Different
+
+- 🚀 I don’t just code — I **ship fast using AI-assisted workflows**
+- 🧩 Build scalable component systems & clean UI architecture  
+- 📈 Optimize performance (Core Web Vitals, Lighthouse)  
+- 🎯 Deliver production-ready UI with real business impact  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0ea5e9?style=for-the-badge&logo=tailwindcss)
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwindcss)
 
-### ⚙️ Tools & Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+### 🤖 AI Workflow
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0f172a?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0f172a?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-0f172a?style=for-the-badge)
 
-### 🧠 Other Skills
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+### ⚙️ Tools & Systems
+![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge)
+![Webpack](https://img.shields.io/badge/Webpack-0f172a?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farzanAshraf&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farzanAshraf&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farzanAshraf&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farzanAshraf&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -58,41 +66,42 @@
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzanAshraf&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/farzanashraf/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-## ✨ Fun Section
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6a11cb&center=true&vCenter=true&lines=React+Developer;Frontend+Engineer;Always+Learning+New+Things;Building+Cool+Stuff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzanAshraf&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔹 Comic Store (React + Bootstrap)
-- 🔹 2D Floorplan Viewer (JS + Interactive UI)
-- 🔹 WordPress Custom Plugin (API Sync Media)
-- 🔹 Dynamic Forms with API Integration
+- 🧾 **Invoice Management System**
+  - Dynamic forms, real-time calculations, API integration  
+
+- 🛒 **E-commerce Platform**
+  - Product listing, filtering, wishlist & cart  
+
+- 🔄 **E-commerce Migration (React)**
+  - Converted legacy frontend to scalable React architecture  
+
+- 🧩 **2D Floorplan Viewer**
+  - Interactive UI with zoom, hover & dynamic rendering  
 
 ---
 
+## 🌐 Connect With Me
+
 <p align="center">
-  💡 "Code. Create. Innovate."
+  <a href="https://www.linkedin.com/in/farzanashraf/">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:farzanashraf1996@email.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## ✨ Motto
+
+<p align="center">
+  ⚡ Ship Fast • Optimize Always • Build for Scale
 </p>
